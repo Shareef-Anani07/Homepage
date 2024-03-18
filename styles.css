@@ -1,0 +1,36 @@
+body{
+    background-color: white;
+    }
+
+h1 {
+    color: rgb(1, 100, 32);
+    text-align: center;
+    font-family: "Monaco", monospace;
+    font-size: 75px;
+   }
+
+p {
+    font-family: "Verdana", sans-serif;
+    font-size: 18px;
+  }
+
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+th {
+    background-color: rgb(1, 100, 32);
+    color: white;
+    text-align: center;
+  }
+
+td {
+    text-align: center;
+  }
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    width: 100%
+}
